@@ -1,0 +1,176 @@
+.parent-home{
+    background-color: #F9F9F9;
+    font-family: 'Cairo', sans-serif;
+
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 0.4fr 1fr;
+    column-gap: 55px;
+    margin-top: 50px;
+    width: 90%;
+    margin-left: 5%;
+    height: 400vh;
+}
+.container-box{
+    background-color: #FFFFFF;
+    width: 100%;
+    text-align: center;
+    height: 200px;
+    border-radius: 10px;
+    padding-top: 40px;
+    color: #2D4C69;
+    margin-top: 50px;
+
+}
+
+.btn button{
+    padding: 8px 17px;
+    background-color: orange;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 12px;
+    font-family: 'Cairo', sans-serif;
+    font-weight: 700;
+}
+
+.container-box2{ 
+    background-color: #FFFFFF;
+    margin-top: 28px;
+    height: 220px;
+    width: 100%;
+}
+.container1{
+
+ padding-top: 30px;
+}
+
+.container-box2 button{
+    padding: 12px 30px;
+    margin: 4px;
+    cursor: pointer;
+    font-family: 'Cairo', sans-serif;
+}
+
+.container-box2 button:nth-child(1){
+    background-color: royalblue;
+    color: white;
+    border: none;
+    border-radius: 12px;
+}
+
+.container-box2 button:nth-child(2){
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 12px;
+}
+
+.container-box2 button:nth-child(3){
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 12px;
+}
+
+
+.container-box3 .flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 0.1px solid grey;
+   
+}
+
+.container-box3{
+    background-color: #FFFFFF;
+    width: 100%;
+}
+
+.info{
+    text-align: end;
+    
+}
+
+.img img{
+    border-radius: 5px;
+}
+.img{
+    margin-right: 5px;
+}
+
+.infos{
+ margin-right: 25px;
+}
+
+.title{
+    border-bottom: 0.1px solid grey;
+    height: 50px;
+}
+
+
+.content{
+    text-align: end;
+    background-color: #FFFFFF;
+    height: 50px;
+    margin-top: 50px;
+    border-radius: 12px;
+    font-family: 'Cairo', sans-serif;
+
+}
+.content h4{
+    padding-right: 20px;
+    padding-top: 8px;
+    
+    color: #2D4C69;
+}
+
+.my-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: end;
+    gap: 10px;
+}
+
+.picture img{
+    width:100%;
+}
+
+
+.infos1 button{
+   padding: 5px 19px;
+   cursor: pointer;
+}
+
+.btn1{
+    background-color: #2D4C69;
+    color: white;
+    border: none;
+    margin: 5px;
+}
+
+.btn2{
+    background-color: orange;
+    color: white;
+    border: none;
+}
+
+.infos1 p{
+    color: #2D4C69;
+}
+
+.infos1{
+    width: 60%;
+    
+}
+.picture{
+    width: 40%;
+}
+
+.boxs{
+    background-color: #FFFFFF;
+    margin-top: 20px;
+}

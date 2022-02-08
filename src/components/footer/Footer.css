@@ -1,0 +1,68 @@
+.footer p{
+    text-align: center;
+    width:100%;
+    line-height: 1.7em;
+    font-family: 'Cairo', sans-serif;
+    font-weight: 700;
+    color: #2D4C69;
+}
+
+.footer{
+    width: 80%;
+    margin-left: 10%;
+}
+
+.footer .botona{
+    margin: 0 auto;
+    display: block;
+    color: white;
+    background-color: #2D4C69;
+    padding: 8px 20px;
+    border-radius: 12px;
+    font-family: 'Cairo', sans-serif;
+    border: none;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.father{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.child1 button{
+    padding: 10px 8px;
+    margin: 5px;
+    color:white;
+    background-color: #FF8400;
+    border: none;
+    cursor: pointer;
+}
+.child1 button:focus{
+    outline: none;
+}
+.child1 input{
+    padding: 10px 12px;
+}
+
+.child2{
+    text-align: center;
+}
+
+.child2 i{
+    font-size: 2rem;
+    color: #FF8400;
+}
+.child2 h5{
+    font-size: 20px;
+    color: #2D4C69;
+}
+.child2 h7{
+    font-size: 15px;
+    color: #2D4C69;
+}
+
+.footer pre{
+    text-align: center;
+}
