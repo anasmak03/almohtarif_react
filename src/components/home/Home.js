@@ -12,12 +12,40 @@ import img8  from '../images/box8.png';
 import img9  from'../images/box9.png';
 import img10  from'../images/box10.png';
 import picture from '../images/pic1.png';
-import picture1 from '../images/pic2.png'
-import picture2 from '../images/pic3.png'
-import picture3 from '../images/pic4.png'
-import picture4 from '../images/pic5.png'
+import picture1 from '../images/pic2.png';
+import picture2 from '../images/pic3.png';
+import picture3 from '../images/pic4.png';
+import picture4 from '../images/pic5.png';
+import data from '../Data/Mydata.json';
 function Home () {
-   
+        const mydata = (
+            <div>
+            {data.map((datas) => ( 
+                <>
+                      <div className="boxs">
+                            <div className='my-box'>
+                              <div className="infos1">
+                              <p key={datas.id}>{datas.title}</p> 
+                              <span key={datas.id}>{datas.date}</span>
+                            <p key={datas.id}>{datas.author}</p>
+                            <small key={datas.id}>{datas.description}</small> 
+
+                                <br></br>
+                                
+                              </div>
+                              <div className='picture'>
+                              <img key={datas.id} src={datas.image} />
+                              </div>
+                            </div>
+                        </div>
+                
+                 </>
+                
+           
+
+            ))}
+            </div>
+        )
         return ( 
             <div>
                 <div className="parent-home">
@@ -131,7 +159,7 @@ function Home () {
                         <div className="content">
                             <h4>أخر المواضيع <i class="fa fa-bookmark"></i></h4>
                         </div>
-                        <div className="boxs">
+                        {/* <div className="boxs">
                             <div className='my-box'>
                               <div className="infos1">
                               <p>تويتر تعلن رسميا عن توسيع اختبار ميزة "التصويت لأسفل"</p>
@@ -146,8 +174,9 @@ function Home () {
                                   <img src={picture3} alt="photo"/>
                               </div>
                             </div>
-                        </div>
-                        <div className="boxs">
+                        </div> */}
+                        {mydata}
+                        {/* <div className="boxs">
                             <div className='my-box'>
                               <div className="infos1">
                               <p>تعرف على هذه المنصة التي تحتوي كل ما تحتاجه في مجال صناعة الفيديوهات مدعومة بالذكاء الإصطناعي</p>
@@ -210,7 +239,10 @@ function Home () {
                                   <img src={picture4} alt="photo"/>
                               </div>
                             </div>
-                        </div>
+                        </div> */}
+
+                        
+
                     </div>
 
                    

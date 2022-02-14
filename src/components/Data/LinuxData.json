@@ -1,0 +1,81 @@
+[
+    {
+        "id" : 1,
+        "title" : "هذه أفضل توزيعات لينكس لتشغيل الألعاب",
+        "description" : "بدأت توزيعات لينكس تشهد نقلة نوعية في تاريخ برمجتها, حيت صارت لم تقتصر فقط على تشغيل السيرفرات و إدارة قواعد البيانات و تهيأت الشبكات......",
+        "author" : "العكرودي أنس ",
+        "image" : "https://1.bp.blogspot.com/-zHfGMmSkk64/XigZ8fNlQtI/AAAAAAAAPBM/NBWHOK7xO8cFePJHaYdb3ZyQWskOtCR2wCLcBGAsYHQ/s640/image4_9_600x400.jpg",
+        "date" : "1:36 م "
+        
+    },
+    {
+        "id" : 2,
+        "title" : "إليك فكرة ستجعلك تستفيد من حاسوبك القديم",
+        "description" : "إدا صادفك وسعمت كلمة pintum4، ماذا سيخطر في بالك؟ بالفعل ستتذكر ذلك الحاسوب المكتبي دو الطراز القديم الدي كان يشكل تورة في وقته أنداك، و...",
+        "author" : "العكرودي أنس ",
+        "image" : "https://1.bp.blogspot.com/-dhYSTRUOGtY/XhXcS97mxEI/AAAAAAAAOog/u9CbtPz6UPgQF2pxv4OLIyyhRbWHdHpzQCLcBGAsYHQ/s640/image3_3_600x400.jpg",
+        "date" : "1:36 م "
+
+    },
+
+    {
+        "id" : 3,
+        "title" : "دورة احترافية لتعلم الاختراق الأخلاقي باستخدام BlackArch Linux",
+        "description" :"لينكس هو النظام المحبوب لدى أغلب الهاكرز والباحثين الأمنين في جميع دول العالم . هذا النظام يتمتع بقوة والحماية وكذلك سهولة تخصيصه حسب احتي...",
+        "author" : "العكرودي أنس ",
+        "image" : "https://1.bp.blogspot.com/-6jkQiDRadzw/XWkPzfgHtDI/AAAAAAAAL3I/t6oYhhIS0rgcNsB2Gd_tWw7cTdxxvjmFACLcBGAs/s640/wCSGzUy.jpg",
+        "date" : "1:36 م "
+
+    },
+
+    {
+        "id" : 4,
+        "title" :"نظام تشغيل Whonix ، أثناء إستخدامك له تأكد انك ستصبح مثل الشبح على الانترنت !",
+        "description" : "الخصوصية لم تعد موجودة على شبكة الانترنت. صحيح أن رقم IP ليس هو الهوية الشخصية ، ولكن مع الكم الهائل من المعلومات التي يشاركها المستخدمون ... ",
+        "author" : "العكرودي أنس ",
+        "image" : "https://1.bp.blogspot.com/-FwtUFq7_lBI/XULmvfWPriI/AAAAAAAALrg/SwSBDQgHPW8gwRvyNPP6oEazjs2Y-KiuACLcBGAs/s640/22.png",
+        "date" : "1:36 م "
+    },
+
+    {
+        "id" : 5,
+        "title" : "دورة مجانية لاستعادة البيانات وطريقة التعامل مع windows BAT و linux terminal        ",
+        "description" : " كلنا نعتمد بشكل كبير على أقراص صلبة (HARD DRIVES) لتخزين بياناتنا و هناك معلومات لا تقدر بثمن قد تضيع منا بسبب تلف هذا الأخير . و لاشك أن...        ",
+        "author" : "العكرودي أنس ",
+        "image" : "https://1.bp.blogspot.com/-GPi3TQQoOnI/XUBGKOIHXaI/AAAAAAAALqM/hN7OblmvHsIgWYhVyZglG5BYd0BsX1HLACLcBGAs/s640/dH3z_ft9.jpg",
+        "date" : "1:36 م "
+        
+    },
+
+
+    {
+        "id" : 6,
+        "title" : "أفضل توزيعات Linux الأربعة لإصلاح مشاكل Windows",
+        "description" :"يستخدم معظم الأشخاص Windows للقيام بمهام يومية مختلفة ، سواء للعمل أو للترفيه. على الرغم من أن نظام التشغيل Microsoft قد مر بالعديد من الت...",
+        "author" : "العكرودي أنس ",
+        "image" :"https://1.bp.blogspot.com/-kVOJ_xN17bk/XSXiGupOFzI/AAAAAAAALgI/FeogXZWGUQQ_nnZxVIUplPjFs82N9AePACLcBGAs/s640/tools-fix-windows-10-670x335.jpg",
+        "date" : "1:36 م "
+        
+    },
+
+    {
+        "id" : 7,
+        "title" : "كيفية وضع أكثر من توزيعة لينكس على USB واحد قابل للاقلاع        ",
+        "description": "لإصلاح مشاكل الكمبيوتر أو للقيام بتجربة ما أو حتى أداء المهام التي لا يمكنك القيام بها في Windows  بشكل جيد ، هناك حل مشترك يتمثل في  Linu...        ",
+        "author" : "العكرودي أنس ",
+        "image" : "https://3.bp.blogspot.com/-vEgOdMyVI9Q/XN10iUZiLQI/AAAAAAAALQo/KRgGNhzRUl4dVvA3GqhTff5lGafR0aAqgCLcBGAs/s640/eez.png",
+        "date" : "1:36 م "
+        
+    },
+
+    {
+        "id" : 8,
+        "title" : "10 توزيعات جنو / لينكس ربما لم تكن تعرفها        ",
+        "description" : "عندما نتحدث عن أنظمة التشغيل جنو / لينكس ، سيذهب بالك غالبا الى توزيعات مثل أوبونتو ، دبيان ، فيدورا ، سوس أو التوزيعات التقليدية الأخرى ....        ",
+        "author" : "العكرودي أنس ",
+        "image" : "https://1.bp.blogspot.com/-7nKnbd88Zm0/XGVkADqH06I/AAAAAAAAKm8/Py_GOgj2vFsvTGFxIn5anDOb-nxXUbq8QCLcBGAs/s640/c-penguin-flag_2120x1192.png",
+        "date" : "1:36 م "
+
+
+    }
+]

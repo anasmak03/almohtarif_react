@@ -3,6 +3,7 @@ import React, { useState } from 'react';
 import './Navbar'
 import First from './First';
 import Second from './Second';
+import Home from '../home/Home';
 import Third from './Third';
 import logo from '../images/the3.PNG';
 import Facebook from './Facebook';
@@ -95,7 +96,7 @@ function Navbar() {
                 <Link to='/Windows' className='nav-link2' onClick={handleClick}>ويندوز</Link>
                 </li>
                 <li className='nav-item2'>
-                <Link to='/Articles' className='nav-link2' onClick={handleClick}>مقالات</Link>
+                <Link to='/' className='nav-link2' onClick={handleClick}>مقالات</Link>
                 </li>
                 <li className='nav-item2'>
                 <Link to='/' className='nav-link2'><i class="fa fa-home"></i></Link>
@@ -123,10 +124,12 @@ function Navbar() {
                     <Route path='/Lives' element={<Lives />}></Route>
                     <Route path='/Linux' element={<Linux />}></Route>
                     <Route path='/Android' element={<Android />}></Route>
-                    <Route path='/Articles' element={<Articles />}></Route>
+                    <Route path='/Windows' element={<Windows />}></Route>
+                    <Route path='/' element={<Home />}></Route>
                 </Routes>
                 </Router>     
-                </div>   
+                </div>  
+                 
            
         );
     
